@@ -1,5 +1,7 @@
 RENCANA KONTEN UMAA
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Framework
 - Interiew
 - Vlogs
