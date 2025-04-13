@@ -2,7 +2,9 @@ RENCANA KONTEN UMAA
 - Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
 - Struktur Data Dasar
 - PHP Framework
 - Interiew
 - Vlogs
+- Python
