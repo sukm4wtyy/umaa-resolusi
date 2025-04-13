@@ -6,6 +6,7 @@ RENCANA KONTEN UMAA
     ^ React
 - Struktur Data Dasar
 - PHP Framework
+  ^ Laravel
 - Interiew
 - Vlogs
 - Python
